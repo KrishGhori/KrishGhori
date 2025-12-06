@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**KrishGhori/KrishGhori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 I’m currently working on<br>• Practicing Object-Oriented Programming (OOP)<br>• Developing small projects to improve UI design and backend logic<br><br>I’m looking to collaborate on<br>• React.js front-end projects<br>• Building responsive UI using React + Tailwind<br>• Beginner-friendly web app ideas using React<br>• Open-source React components<br><br>I’m looking for help with<br>• Backend development <br>• Improving UI/UX<br><br>I’m currently learning<br>• Backend development <br>• python<br><br>Ask me about<br>•   Basic networking<br>• Troubleshooting coding errors<br>• Beginner-friendly tech advice<br><br>Fun fact<br>• I love solving technical problems—even tiny bugs make my brain excited!<br>• I enjoy building apps that make life easier.<br><br>  
 
