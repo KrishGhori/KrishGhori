@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # 💫 About Me:
-# 💫 About Me
 
 **I'm currently working on**
 Building full-stack web apps — frontend with React + Tailwind, backend APIs, and end-to-end project architecture.
